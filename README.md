@@ -1,5 +1,7 @@
 # Chikungunya no Brasil: análise para a vigilância epidemiológica
 
+Português | [English](README.en.md)
+
 Notebook em Python para apoiar o acompanhamento da chikungunya no Brasil, com análises nacionais, estaduais, municipais e por região de saúde. Destina-se a epidemiologistas e analistas/cientistas de dados que precisam transformar registros de vigilância em informações para investigação, priorização territorial e organização da resposta.
 
 **Arquivo principal:** [chik_analise_brasil_estados_com_mapa_calor.ipynb](chik_analise_brasil_estados_com_mapa_calor.ipynb).
